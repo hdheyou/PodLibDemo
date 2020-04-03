@@ -7,7 +7,7 @@
 //
 
 #import "HYViewController.h"
-#import <PodLibDemo/HYUtils.h>
+#import "HYUtils.h"
 
 @interface HYViewController ()
 // 测试文本
