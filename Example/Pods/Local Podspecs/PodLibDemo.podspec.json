@@ -1,0 +1,22 @@
+{
+  "name": "PodLibDemo",
+  "version": "0.1.0",
+  "summary": "我的第一个Pod项目，demo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://www.baidu.com",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "heyou": "heyou@himobi.net"
+  },
+  "source": {
+    "git": "https://github.com/heyou/PodLibDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodLibDemo/Classes/**/*"
+}

@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'PodLibDemo'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of PodLibDemo.'
+  s.summary          = '我的第一个Pod项目，demo.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/heyou/PodLibDemo'
+  s.homepage         = 'https://www.baidu.com'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'heyou' => 'heyou@himobi.net' }
